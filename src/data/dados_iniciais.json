@@ -1,101 +1,95 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Músicas",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Minha Playlist no Spotify",
+        "url": "https://www.spotify.com/br/"
       },
       "videos": [
         {
-          "titulo": "Thiago Marcos Vilela? #Epíui",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Demacia!!! #Epíui",
+          "url": "https://www.youtube.com/watch?v=r6zIGXun57U"
+        },
+       
+        
+        {
+          "titulo": "Pop Smoke Feat. 50 Cent & Roddy Ricch - The Woo (Official Uncensored Music Video)",
+          "url": "https://www.youtube.com/watch?v=nKoP1URluiY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Chris Brown - No Guidance (Official Video) ft. Drake",
+          "url": "https://www.youtube.com/watch?v=6L_k74BOLag"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Shawn Mendes, Camila Cabello - Señorita",
+          "url": "https://www.youtube.com/watch?v=Pkh8UtuejGw"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Tyga - Taste (Official Video) ft. Offset",
+          "url": "https://www.youtube.com/watch?v=LjxulQ1bEWg"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Chief Keef Feat 50 Cent & Wiz Khalifa - Hate Bein' Sober",
+          "url": "https://www.youtube.com/watch?v=ISj_j2h9UjA&list=RDISj_j2h9UjA&start_radio=1"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Lolzim",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "CBLOL ao vivo",
+        "url": "https://www.youtube.com/user/lolesportsbr"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Irmãos da Lâmina Manchada | Animação Florescer Espiritual 2020 - League of Legends",
+          "url": "https://www.youtube.com/watch?v=4eNjKhwXIWg"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Florescer Espiritual 2020 | Trailer oficial do evento - League of Legends",
+          "url": "https://www.youtube.com/watch?v=w1DUw6LehwM"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Contos de Runeterra: Demacia | Antes da Glória",
+          "url": "https://www.youtube.com/watch?v=lAGWn3GVLVY"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Terror em Demacia | League of Legends",
+          "url": "https://www.youtube.com/watch?v=a9MULbZ9PMg"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Warriors | Animação da Temporada 2020 - League of Legends (com 2WEI e Edda Hayes)",
+          "url": "https://www.youtube.com/watch?v=aR-KAldshAE"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Política",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "#EsquerdaLixo",
+        "url": "https://www.youtube.com/channel/UCKDjjeeBmdaiicey2nImISw"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "URGENTE - Xeque Mate na Lava Jato",
+          "url": "https://www.youtube.com/watch?v=F3siGtA330E"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Sérgio Moro pede SOCORRO!",
+          "url": "https://www.youtube.com/watch?v=tu8-2lnV8Xk&t=736s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "COMO vamos sair deste INFERNO???",
+          "url": "https://www.youtube.com/watch?v=cFTlWSqtkmM"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Flávio Bolsonaro LIVRE!!!",
+          "url": "https://www.youtube.com/watch?v=ofvvsM4z0jo"
         }
       ]
     },
@@ -125,7 +119,7 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Jogos",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -152,32 +146,32 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Teologia",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Fé em Deus sempre",
+        "url": "https://www.youtube.com/user/doisdedosdeteologia"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "O PÃO VIRA CORPO DE CRISTO NA CEIA?",
+          "url": "https://www.youtube.com/watch?v=vNOrC9lepWs"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Existe maldição hereditária? | Pr. Lucinho",
+          "url": "https://www.youtube.com/watch?v=VdwRrEhLt04"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "A IDENTIDADE DO EU EM ROMANOS 7",
+          "url": "https://www.youtube.com/watch?v=MGFtud-4lt8"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Posso beber de vez em quando? | Pr. Lucinho",
+          "url": "https://www.youtube.com/watch?v=Uc5aqjqnfwY"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Pare de tentar ser legal | Pr. Lucinho",
+          "url": "https://www.youtube.com/watch?v=Rkv3aKBsOXo"
         }
       ]
     }
