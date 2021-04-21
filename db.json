@@ -79,24 +79,14 @@
       "titulo": "Uncle Murda | 50 Cent | 6ix9ine | Casanova ",
       "url": "https://www.youtube.com/watch?v=6Flx8kEa-YE"
     },
-    {
-      "id": 3,
-      "categoriaId": 1,
-      "titulo": "Pop Smoke Feat. 50 Cent & Roddy Ricch -",
-      "url": "https://www.youtube.com/watch?v=nKoP1URluiY"
-    },
+   
     {
       "id": 4,
       "categoriaId": 1,
       "titulo": "Chris Brown - No Guidance (Official Video) ft. Drake",
       "url": "https://www.youtube.com/watch?v=6L_k74BOLag"
     },
-    {
-      "id": 5,
-      "categoriaId": 1,
-      "titulo": "Justin Bieber - Intentions (Official Video (Short Version)) ft. Quavo",
-      "url": "https://www.youtube.com/watch?v=3AyMjyHu1bA"
-    },
+    
     {
       "id": 6,
       "categoriaId": 1,
@@ -252,6 +242,12 @@
       "url": "https://www.youtube.com/watch?v=MKOT6teSarY",
       "categoriaId": 1,
       "id": 58
+    },
+    {
+      "titulo": "Dízimo?",
+      "url": "https://www.youtube.com/watch?v=vIKblNzcLXY",
+      "categoriaId": 3,
+      "id": 59
     }
   ]
 }
